@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Map_Theme_Manager" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
